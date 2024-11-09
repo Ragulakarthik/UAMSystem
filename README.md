@@ -3,6 +3,10 @@
 ## 📝 Project Overview
 The User Access Management System is a web-based application designed to manage user access to various software applications within an organization. It provides functionalities like user registration, login, access request submission, and approval or rejection of access requests by managers. Admins have the additional ability to create new software applications within the system.
 
+## Demo Video Link
+
+https://drive.google.com/file/d/1jDzxFNN8tw1-zffACpTCUsdp9L8UcTmv/view?usp=sharing
+
 ## 📷 Screen Shots
 ![image](https://github.com/user-attachments/assets/38fb8fe2-8674-4116-b823-ad0f22bad7a7)
 ![image](https://github.com/user-attachments/assets/cd5b0aec-7f1b-4beb-a30c-acc910be6799)
